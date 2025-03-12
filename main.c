@@ -1,25 +1,25 @@
-#include <stdarg.h>
 #include <stdio.h>
 #include <string.h>
 
-// double average(int num, ...) {
-//     va_list args;
-//     va_start(args, num);
-//     double sum = 0;
-//     for (int i = 0; i < num; i++) {
-//         sum += va_arg(args, double);
-//     }
-//     va_end(args);
-//     return sum / num;
-// }
+
+
+int *FMax(int *a,int num){
+    int count[2]={a[0]};
+    for (int i=0; i<num; i++) {
+        if (*(a+i)>count[0]){
+            count[0]=*(a+1);
+            count[1]=i+1;
+        }
+    }
+return count;
+}
 
 int main(void) {
-    // printf("Sum:%f\n", average(3, (double)1, (double)2, (double)3));
 
-    char str[] = "apple,banana,grape,orange";  // 需要拆分的字符串
-    char *token = strtok(str, ",");  // 以 ',' 作为分隔符
-    printf("%s\n",token);
-    token=strtok(NULL, ",");
-    printf("%s\n",token);
-    return 0;
+
+    int a[4]={1,34,56,7};
+    int num[2];
+    num=FMax(a,4);
+    printf("%d,%d",num[0],num[1]);
+
 }

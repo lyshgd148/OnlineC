@@ -1,0 +1,55 @@
+https://www.geogebra.org/3d/ytawqa8r
+
+https://www.geogebra.org/graphing/eppqttcz  #采样频率变小，影响到结果的频率
+
+https://www.geogebra.org/graphing/hsj4jzxp  #方波叠加
+
+https://www.geogebra.org/graphing/pqcgjwyf
+
+https://www.geogebra.org/graphing/tshxjped #三坐标二坐标变换
+
+https://www.geogebra.org/classic/tmufvr8f  #三维映射到二维（高纬到低维的跌落）
+
+https://www.geogebra.org/classic/gpjtukcg  #动圆轨迹
+
+https://www.geogebra.org/classic/zurs5vy8 #多元函数的极值点 以及几何意义
+
+https://www.geogebra.org/classic/juqp7t4e  #圆展开成三角形
+
+https://www.geogebra.org/classic/kmgj3jdk #Rotate的小问题 
+
+https://www.geogebra.org/classic/r3bacjkp #类太阳、地球、月亮轨迹的简单模拟
+
+https://www.geogebra.org/classic/nfswbmx2 #三运动系统轨迹
+
+https://www.geogebra.org/classic/dtzcacx3 #位似变化
+
+https://www.geogebra.org/classic/zruuacua #立方体三维模型
+
+https://www.geogebra.org/classic/vf3fmtfq #渐变圆
+
+https://www.geogebra.org/classic/wpcfvrwm #三叶玫瑰线
+
+https://www.geogebra.org/classic/ehvjxuty #蚁群算法的地图
+
+https://www.geogebra.org/classic/zectbasz #泰勒公式的拟合
+
+https://www.geogebra.org/classic/kbjaq8cf  #问题一
+
+https://www.geogebra.org/classic/vcmy3xhk #问题一（1）
+
+https://www.geogebra.org/classic/fdvzfycd #问题三
+
+https://www.geogebra.org/classic/xn7escqq #将信号绕在圆上 （傅里叶变换）
+
+https://www.geogebra.org/classic/w3dmswva #三次样条插值
+
+https://www.geogebra.org/classic/cdzrnfur  #傅里叶级数拟合方波
+
+https://www.geogebra.org/classic/n9cvdtmr #一种拟合方波的方法
+
+https://www.geogebra.org/classic/utbhcsqm #油桶平衡
+
+https://www.geogebra.org/classic/rpgxpa3g #低通滤波器
+
+https://www.geogebra.org/classic/h53vpfjr #向量合成
